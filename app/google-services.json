@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736419549099",
+    "project_id": "fcmnotification-4e843",
+    "storage_bucket": "fcmnotification-4e843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736419549099:android:8277bfee3ee3a224810cee",
+        "android_client_info": {
+          "package_name": "com.raihan.fcmnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYIUp0TARW3VqT072YafC_y3uc20qM-HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
